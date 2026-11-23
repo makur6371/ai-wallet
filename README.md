@@ -1,3 +1,14 @@
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/makur6371/ai-wallet?style=social)](https://github.com/makur6371/ai-wallet)
+[![GitHub forks](https://img.shields.io/github/forks/makur6371/ai-wallet?style=social)](https://github.com/makur6371/ai-wallet)
+[![Tauri](https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black)](https://tauri.app)
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![Vue](https://img.shields.io/badge/Vue-42B883?logo=vuedotjs&logoColor=white)](https://vuejs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+
+</div>
+
 # AI Wallet
 
 多平台 AI API 余额监控桌面应用 —— 在一个界面里查看所有 AI 服务的余额与剩余额度。
